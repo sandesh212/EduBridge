@@ -1,0 +1,82 @@
+{
+  "name": "edubridge",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@date-io/date-fns": "^2.16.0",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "@material-ui/pickers": "^3.3.10",
+    "@mui/base": "^5.0.0-beta.1",
+    "@mui/icons-material": "^5.11.9",
+    "@mui/lab": "^5.0.0-alpha.127",
+    "@mui/material": "^5.13.6",
+    "@mui/styles": "^5.13.2",
+    "@mui/x-date-pickers": "^6.9.1",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "as-nav-link": "^0.1.5",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.2.3",
+    "chart.js": "^4.2.1",
+    "cheerio": "^1.0.0-rc.12",
+    "date-fns": "^2.30.0",
+    "emoji-mart": "^5.5.2",
+    "emoji-picker-react": "^4.4.9",
+    "express": "^4.18.2",
+    "joi": "^17.9.1",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "mdb-react-ui-kit": "^6.0.0",
+    "moment": "^2.29.4",
+    "popper.js": "^1.16.1",
+    "react": "^18.2.0",
+    "react-bootstrap-validation": "^0.1.11",
+    "react-chartjs-2": "^5.2.0",
+    "react-date-picker": "^10.2.0",
+    "react-datepicker": "^4.15.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "react-input-emoji": "^5.1.1",
+    "react-scripts": "^5.0.1",
+    "rxjs": "^7.8.0",
+    "socket.io-client": "^4.7.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint-plugin-react": "^7.32.2"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
