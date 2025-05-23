@@ -1,3 +1,20 @@
+# Project background
+📘 EduBridge – Student–Supervisor Matching Platform
+EduBridge is a web application developed to make the capstone project process easier and more organised for both students and supervisors at the University of Tasmania.
+
+Before this system, students had to visit different lecturers to discuss their project ideas, which often caused delays and communication issues. With EduBridge, supervisors can register and list their skills, and students can easily view available supervisors, contact them, and form project groups.
+
+The platform also includes:
+
+An AI chatbot (built with Dialogflow) to answer common questions
+
+Secure login using Firebase Authentication
+
+Group features for student collaboration and communication
+
+🛠️ Technologies Used
+React.js · Node.js · Express.js · MongoDB · Firebase Auth · Dialogflow · Jest · Mocha
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
